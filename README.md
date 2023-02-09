@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsayed007&show_icons=true&theme=vision-friendly-dark) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadi0406&show_icons=true&theme=vision-friendly-dark) -->
 
  <h3>GitHub Profile Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mahadi0406">
   <img alt="Mahadi Hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahadi0406&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mahadi0406">
  <img alt="Mahadi Hasan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi0406&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
 
