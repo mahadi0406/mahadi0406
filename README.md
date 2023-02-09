@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  <h3>GitHub Profile Stats</h3>
 <a href="https://github.com/mahadi0406">
-  <img alt="Mahadi Hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahadi0406&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px">
+  <img alt="Mahadi Hasan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mahadi0406&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866" height="192px">
 </a>
 
 <a href="https://github.com/mahadi0406">
