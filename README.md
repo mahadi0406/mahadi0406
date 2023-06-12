@@ -23,9 +23,3 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadi0406&show_icons=true&theme=vision-friendly-dark) -->
-
-<a href="https://github.com/mahadi0406">
- <img alt="Mahadi Hasan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi0406&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
-
